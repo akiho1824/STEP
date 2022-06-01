@@ -59,6 +59,7 @@ def bfs(start,target,links):
     visited = {}
     total_search = 0
     visited[start] = True
+    
   # while container is not empty
     while container:
         v = container.popleft()
@@ -80,7 +81,6 @@ def bfs_path(start,target,links):
     length_path = 0
 
     if bfs(start,target,links):
-        # print(path_rec_bfs)
         path_bfs = []
         index = target
         while index != start:
@@ -101,6 +101,7 @@ def dfs(start, target, links):
     visited = {}
     total_search = 0
     visited[start] = True
+    
     # while container is not empty
     while container:
         v = container.pop()
