@@ -36,4 +36,5 @@ The result might be different with the result of running it on ```links.txt``` a
 
 <!-- ## Look for the path from ”Google” to ”Shibuya” using DFS & BFS -->
 
-
+## SORRY, there are still some bugs in the DFS function, so I comment out it.
+I'll try to fix them until Thursday!!
