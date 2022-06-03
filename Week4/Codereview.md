@@ -149,7 +149,7 @@ print(name_bfs(graph,'Google','渋谷'))
 print(name_dfs(graph,'Google','渋谷'))
 ```
 
-###　全体的な感想
+## 全体的な感想
 
 とても分かりやすかったです！
 そして、私はPythonの初心者レベルでしたので、シオリさんのコードから色々勉強できました！
